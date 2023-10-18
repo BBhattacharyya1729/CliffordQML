@@ -4,9 +4,9 @@
         "value"
     ],
     "design_of_experiment": {
-        "number_of_samples": 100
+        "number_of_samples": 50
     },
-    "optimization_iterations": 100,
+    "optimization_iterations": 50,
     "models": {
         "model": "random_forest"
     },
